@@ -1,0 +1,76 @@
+{
+  "shakes": [
+    {
+      "id": "shake-1",
+      "name": "Shake 1",
+      "label": "Simple Transition Shake",
+      "desc": "Clean & energetic camera shake",
+      "file": "1.ffx",
+      "video": "https://github.com/chatgpt908612-max/kaimv2-library/releases/download/shake-library-v1/1.mp4"
+    },
+    {
+      "id": "shake-2",
+      "name": "Shake 2",
+      "label": "Clean Shake",
+      "desc": "Smooth temporal blur and clean shake",
+      "file": "2.ffx",
+      "video": "https://github.com/chatgpt908612-max/kaimv2-library/releases/download/shake-library-v1/2.mp4"
+    },
+    {
+      "id": "shake-3",
+      "name": "Shake 3",
+      "label": "Soft Exposure Shake",
+      "desc": "Soft flash exposure with subtle shake",
+      "file": "3.ffx",
+      "video": "https://github.com/chatgpt908612-max/kaimv2-library/releases/download/shake-library-v1/3.mp4"
+    },
+    {
+      "id": "shake-4",
+      "name": "Shake 4",
+      "label": "Directional Blur",
+      "desc": "Directional blur with exposure flash",
+      "file": "4.ffx",
+      "video": "https://github.com/chatgpt908612-max/kaimv2-library/releases/download/shake-library-v1/4.mp4"
+    },
+    {
+      "id": "shake-5",
+      "name": "Shake 5",
+      "label": "Hard Transition Shake",
+      "desc": "High-intensity impact camera shake",
+      "file": "5.ffx",
+      "video": "https://github.com/chatgpt908612-max/kaimv2-library/releases/download/shake-library-v1/5.mp4"
+    },
+    {
+      "id": "shake-6",
+      "name": "Shake 6",
+      "label": "Mild Shake",
+      "desc": "Gentle natural camera shake",
+      "file": "6.ffx",
+      "video": "https://github.com/chatgpt908612-max/kaimv2-library/releases/download/shake-library-v1/6.mp4"
+    },
+    {
+      "id": "shake-7",
+      "name": "Shake 7",
+      "label": "Skew Shake",
+      "desc": "Tiled dynamic skew with geometry whip",
+      "file": "7.ffx",
+      "video": "https://github.com/chatgpt908612-max/kaimv2-library/releases/download/shake-library-v1/7.mp4"
+    },
+    {
+      "id": "shake-8",
+      "name": "Shake 8",
+      "label": "Exposure Shake",
+      "desc": "High exposure burst with rapid shake",
+      "file": "8.ffx",
+      "video": "https://github.com/chatgpt908612-max/kaimv2-library/releases/download/shake-library-v1/8.mp4"
+    },
+    {
+      "id": "shake-9",
+      "name": "Shake 9",
+      "label": "Ripple + Shake",
+      "desc": "Continuum ripple dissolve and shake",
+      "file": "9.ffx",
+      "video": "https://github.com/chatgpt908612-max/kaimv2-library/releases/download/shake-library-v1/9.mp4"
+    }
+  ]
+}
